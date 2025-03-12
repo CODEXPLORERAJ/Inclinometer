@@ -1,0 +1,24 @@
+Wiring Diagram
+
+MPU6050 Sensor
+VCC: Connect to 3.3V or 5V (depending on your module)
+GND: Connect to Ground
+SDA: Connect to Arduino SDA (e.g., A4 on Uno)
+SCL: Connect to Arduino SCL (e.g., A5 on Uno)
+
+SSD1306 OLED Display
+VCC: Connect to 3.3V or 5V
+GND: Connect to Ground
+SDA: Connect to same SDA as MPU6050
+SCL: Connect to same SCL as MPU6050
+
+Push Buttons
+Menu Button (MENU_BTN):
+One terminal to digital pin 3
+Other terminal to Ground
+Enter Button (ENTER_BTN):
+One terminal to digital pin 4
+Other terminal to Ground
+
+
+Note: Both buttons use internal pull-up resistors.
