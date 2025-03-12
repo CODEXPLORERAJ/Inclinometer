@@ -1,0 +1,17 @@
+Usage
+
+1.Startup:
+The device begins with a loading animation displaying sliding text ("Created By RoboVate") along with a dynamic loading bar.
+
+2.Main Menu:
+After the loading screen, the menu offers three options:
+  -Normal Mode: Displays a rounded angle.
+  -Precision Mode: Displays a detailed angle with one decimal place.
+  -Calibrate: Initiates sensor calibration.
+
+3.)Calibration:
+If you select the Calibrate option, follow the on-screen instructions (e.g., "Lay me down face up") to calibrate the sensor. The calibration data is then stored in EEPROM.
+
+4.)Angle Display:
+In normal operation, the device continuously reads sensor data, converts the quaternion to Euler angles, and displays the appropriate angle on the OLED screen based on the selected mode.
+
