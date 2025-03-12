@@ -1,4 +1,4 @@
-** Inclinometer**
+Inclinometer
 
 **Arduino Leveling Device with MPU6050 & OLED**
 This project implements a leveling device using an MPU6050 sensor and an SSD1306 OLED display. It features real-time angle measurement with both normal and precision display modes, an interactive menu for mode selection and calibration, and EEPROM-based calibration storage for persistent settings.
