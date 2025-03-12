@@ -16,4 +16,5 @@ A simple menu navigated using two push buttons lets you choose between Normal mo
 **Multi-Mode Display:**
 
 i)Normal Mode: Shows rounded angle values.
+
 ii)Precision Mode: Displays angle values with one decimal place for finer resolution.
