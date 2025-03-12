@@ -1,10 +1,10 @@
-## Software Requirements
+ Software Requirements
 
-- **Arduino IDE**
-- **Required Libraries:**
-  - [I2Cdev](https://github.com/jrowberg/i2cdevlib)
-  - [MPU6050_6Axis_MotionApps20](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050)
-  - [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
-  - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-  - [EEPROM](https://www.arduino.cc/en/Reference/EEPROM)
-  - [FreeMono9pt7b Font](https://github.com/adafruit/Adafruit-GFX-Library) (Included with Adafruit GFX)
+Arduino IDE
+Required Libraries:
+   [I2Cdev](https://github.com/jrowberg/i2cdevlib)
+   [MPU6050_6Axis_MotionApps20](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050)
+   [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+   [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+   [EEPROM](https://www.arduino.cc/en/Reference/EEPROM)
+   [FreeMono9pt7b Font](https://github.com/adafruit/Adafruit-GFX-Library) (Included with Adafruit GFX)
